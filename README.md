@@ -1,5 +1,14 @@
-## Hi there 👋
+# ⚠️ THIS ACCOUNT HAS MOVED
 
+## I am now active at: 
+# [github.com/vamsikrishna23092005](https://github.com/vamsikrishna23092005)
+
+---
+
+### Why the change?
+To better reflect my professional identity as I prepare for upcoming AI and GenAI placements. 
+
+**Please find all my latest projects, research papers, and contributions at the new link above.**
 <!--
 **VickyPlayz/vickyplayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
