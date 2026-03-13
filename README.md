@@ -1,3 +1,5 @@
+![Moved](https://img.shields.io/badge/ACCOUNT-MOVED-red?style=for-the-badge&logo=github)
+
 # ⚠️ THIS ACCOUNT HAS MOVED
 
 ## I am now active at: 
